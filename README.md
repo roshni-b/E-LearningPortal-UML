@@ -1,2 +1,1 @@
-# E-Learning Portal: 
-## UML Diagrams and Software Requirements Specification (SRS)
+# UML Diagrams and Software Requirements Specification (SRS)
